@@ -1,0 +1,20 @@
+innings, timestamp, run, wickets, over, baller, batter, event, commentary
+
+Who was batting in x3 over in x0 innings?
+Name the batsman in 4th over of 1st innings
+When did x5 get out?
+Who bowled out x5?
+who was balling in x3 over?
+how many runs did x5 make?
+how many wickets did x4 take?
+how many wickets fell in the x3 over?
+when did x5 hit a 4?
+when did x5 hit a six?
+which batsmen did x5 ball out?
+
+which bowler took the 3rd wicket?
+who was bowling in 5th over?
+what was the longest partnership?
+What were the highlights?
+which team won?
+Give a summary of the match after half an hour?

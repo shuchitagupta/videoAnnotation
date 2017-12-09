@@ -1,0 +1,17 @@
+
+
+Question -> QUery formulation and Answer type detection
+
+Question processing -> Passage retrieval -> Answer processing
+
+Answer type detection - NET of the answer -> handwritten rules/machine learning
+Query formulation - keywords to look for
+Question type classification
+
+Training on one match and testing on other.
+
+1. Test word2vec
+2. Test doc2vec
+3. Train a network on 1 match and test on another
+4. Matching in table
+5. 
